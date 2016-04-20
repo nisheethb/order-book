@@ -1,3 +1,7 @@
+'''This example is based on: https://github.com/dyn4mik3/OrderBook
+Used under the MIT License. Please refer to LICENSE.txt'''
+
+
 from orderbook import OrderBook
 from ordertree import OrderTree
 from orderlist import OrderList
